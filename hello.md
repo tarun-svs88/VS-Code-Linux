@@ -29,7 +29,13 @@ gtkwavev.png
 **version check** - git --version
 ![](git+githubv.png)
 
-###
+### 4)Yosys
+
+**command** - sudo apt install yosys -y 
+![](yosys%20.png)
+**version check** -yosys -V
+![](yosys%20v.png)
+
 
 
 
